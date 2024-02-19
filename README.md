@@ -16,7 +16,7 @@ This is a Streamlit web application that allows users to scrape LinkedIn events 
 1. Clone the repository:
 
    ```bash
-  https://github.com/Djifack-ulrich/webscapingLinkedinSteamlitDashboard/tree/main
+   https://github.com/Djifack-ulrich/webscapingLinkedinSteamlitDashboard/tree/main
 
 2. Install the required Python packages:
    pip install -r requirements.txt
